@@ -1,0 +1,18 @@
+<html>
+	<title>
+		PAGINA WEB 11
+	</title>
+		<head>
+		<center><h3>
+			MARQUEESINA <br>
+		</center></h3>
+		</head>
+	<body bgcolor="blue">
+		<marquee direction><h1>
+			CARLOS JESUS SAN AGUSTÍN
+		</h1></marquee>
+			<marquee direction="right"><h1>
+			ESTA ES OTRA MARQUEESINA, PERO ES INVERSA
+			</h1></marquee>
+	</body>
+</html>
